@@ -1,0 +1,3 @@
+include ':jsonbenchmark'
+include ':app'
+rootProject.name = "jsonparser"
